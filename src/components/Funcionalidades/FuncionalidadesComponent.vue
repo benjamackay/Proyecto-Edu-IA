@@ -1,13 +1,4 @@
 <template>
-  <!-- Sección de encabezado -->
-  <div class="w-full h-64 bg-white">
-    <div class="flex justify-center items-center text-center h-full">
-      <h3 class="max-w-[700px] p-4 text-black text-[18px] md:text-[22px] leading-relaxed">
-        Tecnología adaptada a tu campo para decisiones más precisas. AgroPred integra múltiples sensores y datos en una plataforma intuitiva, mejorando la gestión y productividad de tu cultivo en tiempo real.
-      </h3>
-    </div>
-  </div>
-
   <!-- Sección de tarjetas -->
   <div class="bg-gray-300 w-full min-h-screen py-10 pb-10 md:py-0 md:pb-0">
     <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-10 justify-evenly items-center md:p-10">
